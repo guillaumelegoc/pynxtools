@@ -1,3 +1,4 @@
 [submodule "src/pynxtools/definitions"]
 	path = src/pynxtools/definitions
 	url = https://gitlab.in2p3.fr/himagnetos/nexus_definitions
+	branch = himagnetos
